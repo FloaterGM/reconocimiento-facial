@@ -9,4 +9,4 @@ Este proyecto esta basado en el manejo de horarios y seguimiento del mismo media
   - [x] El sistema de registro de horas es dinamico asi que no tendras que realizar nada respecto a si es entrada o salida
 
 ### Librerias necesarias para el correcto funcionamiento:
-![min] (https://firebasestorage.googleapis.com/v0/b/hotelcris-48ee5.appspot.com/o/Screenshot%202023-02-06%20084205.png?alt=media&token=f180156b-9c64-4fb9-a49b-e57135b4892b)
+![min](https://firebasestorage.googleapis.com/v0/b/hotelcris-48ee5.appspot.com/o/Screenshot%202023-02-06%20084205.png?alt=media&token=f180156b-9c64-4fb9-a49b-e57135b4892b)
