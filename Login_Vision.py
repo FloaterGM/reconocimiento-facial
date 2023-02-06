@@ -17,10 +17,10 @@ def create_server_connection():
     connection = NONE
     try:
         connection = ("Driver={SQL Server Native Client 11.0};"
-            "Server=pepeelchispa.database.windows.net;"
-            "Database=turnos2;"
-            "UID=cvalenciah;"
-            "PWD=Cris123.;")
+            "Server=xxxxxx;"
+            "Database=xxxxxx;"
+            "UID=xxxxx;"
+            "PWD=xxxxxx;")
 
         conexion = pyodbc.connect(connection)
         print("SQL Database connection successful")

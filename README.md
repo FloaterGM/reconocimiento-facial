@@ -1,23 +1,12 @@
-# Sistema-de-Login-con-Reconocimiento-Facial
-Hola chicos, en este repositorio encontraran un sistema que logre desarrollar en Python donde realizamos un proceso de registro y login con deteccion y reconocimiento facial.
+# Sistema-de-turnos-mediante-reconocimiento-facial
+Este proyecto esta basado en el manejo de horarios y seguimiento del mismo mediante reconocimiento facial y credenciales de administrador
 
 ### Explicacion:
 - En el archivo Login_Vision.py encontraras el codigo completo donde debes de seguir una serie de pasos:
   - [x] Primero debes de realizar un procesos de registro, ingresando un ID unico y un rostro.
-  - [x] Despues estaras listo para realizar tu login con tu ID, ingresando una vez tu rostro.
-- Si no te quedo muy claro te dejo este [Video Explicativo](https://youtu.be/Hy3DAxgTSu0) donde te muestro el tutorial de todo el codigo.
+  - [x] Luego podras realizar el proceso de login simplemente con tu rostro y se realizara el ingreso de tu hora de entrada/salida a la base de datos.
+  - [x] En dado caso de que ocurra alguna novedad siempre podran los administradores realizar salidas de emergencia (Con su respectiva anotacion)
+  - [x] El sistema de registro de horas es dinamico asi que no tendras que realizar nada respecto a si es entrada o salida
 
-![min](https://user-images.githubusercontent.com/85022752/162907738-2742abde-07e3-4579-bef9-686bebdf1641.jpg)
-
-### Recuerda que la explicacion completa esta en mi canal de YouTube:
-- [Canal YouTube](https://www.youtube.com/channel/UCzwHEOCbsZLjfELperJ6VeQ/videos)
-- [Video Explicativo](https://youtu.be/Hy3DAxgTSu0)
-
-
-### Recuerda que puedes contribuir a que siga desarrollando:
-Simplemente suscribiendote a mi canal de YouTube:
-- [Canal YouTube](https://www.youtube.com/channel/UCzwHEOCbsZLjfELperJ6VeQ/videos)
-
-### Siguiendome en mis redes sociales: 
-- [Instagram](https://www.instagram.com/santiagsanchezr/)
-- [Twitter](https://twitter.com/SantiagSanchezR)
+### Librerias necesarias para el correcto funcionamiento:
+![min] (https://firebasestorage.googleapis.com/v0/b/hotelcris-48ee5.appspot.com/o/Screenshot%202023-02-06%20084205.png?alt=media&token=f180156b-9c64-4fb9-a49b-e57135b4892b)
